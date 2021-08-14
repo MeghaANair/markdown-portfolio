@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile. ![Image of Yaktocat](https://octodex.github
+Replace this with a link to your a GitHub or social media profile. ![Image of Yaktoca
